@@ -24,19 +24,21 @@ The website includes:
 
 ## Project Structure
 
+```
 project/
 ├─ source/
-│ ├─ components/
-| | ├─ header.html
-│ | ├─ sidebar.html
-│ | ├─ footer.html
-│ ├─ about.html
-│ ├─ contact.html
-│ ├─ contant.html
-│ ├─ index.html
+│  ├─ components/
+│  │  ├─ header.html
+│  │  ├─ sidebar.html
+│  │  └─ footer.html
+│  ├─ about.html
+│  ├─ contact.html
+│  ├─ content.html
+│  └─ index.html
 ├─ styles/
-│ └─ style.css
+│  └─ style.css
 └─ README.md
+```
 
 ## How to Run the Project
 
