@@ -9,6 +9,8 @@
 		<link rel="stylesheet" href="../styles/style.css">
 	</head>
 	<body>
-		
+		<?php include 'components/navbar.html'; ?>
+		<?php include 'components/sidebar.html'; ?>
+		<?php include 'components/footer.html'; ?>
 	</body>
 </html>
