@@ -27,16 +27,21 @@ The website includes:
 ```
 project/
 ├─ source/
-│  ├─ components/
-│  │  ├─ header.html
-│  │  ├─ sidebar.html
-│  │  └─ footer.html
-│  ├─ about.html
-│  ├─ contact.html
-│  ├─ content.html
-│  └─ index.html
+│ ├─ components/
+│ │ ├─ navbar.html
+│ │ ├─ sidebar.html
+│ │ └─ footer.html
+│ ├─ navbar/
+│ │ ├─ about.html
+│ │ ├─ contact.html
+│ │ └─ content.html
+│ ├─ sidebar/
+│ │ ├─ dashboard.html
+│ │ ├─ profile.html
+│ │ └─ settings.html
+│ └─ index.html
 ├─ styles/
-│  └─ style.css
+│ └─ style.css
 └─ README.md
 ```
 
